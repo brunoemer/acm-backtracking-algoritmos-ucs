@@ -1,0 +1,5 @@
+Para resolver o problema da soma, utilizei backtracking com corte na parte esquerda da arvore, 
+como a sequencia de numeros virao sempre na ordem decrescente não é necessário testar algumas combinações, como por exemplo,
+sequencia 4 2 2 1 1, não precisará testar todas as possibilidades como 2 1 1 4 ou 1 2 2, para isso passei na recursão o parâmetro ii 
+para controlar o início do vetor no proximo nível. Fiz corte caso a soma fosse maior que a soma esperada, e uma limitação por nível. 
+Também foi necessário armazenar as soluções em uma lista para poder verificar se ela já tinha sido incluída, pois as soluções podem se repetir.

@@ -1,0 +1,3 @@
+Para a resolução do problema foi utilizado backtraking para gerar as combinações dos sabores disponiveis na pizzaria,
+para cada opção de sabor gerado é verificado se a opção atende aos requisitos do pedido, caso não são gerados novos sabores 
+até se esgotarem todas as opções de combinação dos sabores disponiveis.

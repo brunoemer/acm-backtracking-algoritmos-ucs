@@ -1,0 +1,3 @@
+Para gerar todas as possibilidades de senhas tendo como entrada algumas palavras e algumas regras, comecei gerando 
+todas as possibilidades com cada uma das regras e então combinei cada uma das regras com todas as possibilidades 
+com cada palavra, e por fim para cada combinação anterior gerei todas as combinações com os digitos caso exista na regra.

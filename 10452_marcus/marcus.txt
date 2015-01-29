@@ -1,0 +1,2 @@
+Nesse caso foi utilizado uma busca em profundiade para procurar o caminho que formava a palavra "IEHOVA", onde cada nivel procura um caminho
+a esquerda, pra frente ou pra direita considerando as letras que foram lidas nos niveis superiores da recursão.
