@@ -6,6 +6,9 @@ http://uva.onlinejudge.org/
 
 Algoritmos escolhidos:
 565 - Pizza Anyone?
+
 574 - Sum It Up
+
 628 - Passwords
+
 10452 - Marcus
