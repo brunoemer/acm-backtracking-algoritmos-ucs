@@ -5,6 +5,7 @@ de competições de programação. Em primeiro lugar vocês devem se cadastrar n
 http://uva.onlinejudge.org/
 
 Algoritmos escolhidos:
+
 565 - Pizza Anyone?
 
 574 - Sum It Up
